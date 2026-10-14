@@ -1,0 +1,102 @@
+[
+  {
+    "id": "nutrition-balanced-diet",
+    "title": "Building a Balanced Diet",
+    "category": "Nutrition",
+    "tags": ["nutrition", "food", "diet", "healthy eating"],
+    "summary": "Learn the key components of a nutritionally balanced diet that supports long-term health.",
+    "content": "A balanced diet provides the nutrients your body needs to function optimally. The core components are:\n\n**Vegetables and fruit (aim for half your plate)**\nEat a wide variety of colours — each colour signals different vitamins, minerals, and antioxidants. Aim for at least five portions (400 g) per day as recommended by the WHO.\n\n**Whole grains**\nChoose brown rice, oats, wholemeal bread, and whole-grain pasta over refined alternatives. They retain more fibre, B vitamins, and minerals.\n\n**Lean proteins**\nLegumes (beans, lentils, chickpeas), fish, eggs, poultry, and low-fat dairy provide essential amino acids. Plant-based proteins also contribute beneficial fibre.\n\n**Healthy fats**\nNuts, seeds, avocado, and olive oil contain unsaturated fats that support heart health. Limit saturated fats from butter, fatty meats, and full-fat dairy.\n\n**Limit ultra-processed foods**\nFoods high in added sugars, salt, and unhealthy fats are linked to obesity, type 2 diabetes, and cardiovascular disease.\n\n**Practical tips:**\n- Cook more meals at home — you control the ingredients.\n- Read food labels to compare products.\n- Plan meals for the week to reduce reliance on convenience food.\n- Eat mindfully and slowly — it takes about 20 minutes for fullness signals to reach the brain.\n\n*This article provides general nutrition education. It is not a personalised diet plan. Consult a registered dietitian for individual guidance.*",
+    "source": "Aligned with WHO Healthy Diet guidelines (who.int/news-room/fact-sheets/detail/healthy-diet)",
+    "reading_time_min": 4
+  },
+  {
+    "id": "hydration-importance",
+    "title": "Why Hydration Matters",
+    "category": "Hydration",
+    "tags": ["water", "hydration", "dehydration"],
+    "summary": "Understand the role of water in the body and practical ways to stay well-hydrated every day.",
+    "content": "Water makes up about 60% of your body weight and is essential for virtually every biological process.\n\n**What water does in the body:**\n- Regulates body temperature through sweating\n- Transports nutrients and oxygen in the blood\n- Lubricates joints\n- Flushes waste products through the kidneys\n- Supports digestion and bowel regularity\n\n**How much do you need?**\nThe commonly cited guideline is about 2 litres (8 cups) per day for adults, but individual needs vary based on body size, climate, activity level, and diet. Fruits and vegetables also contribute a significant amount of water.\n\n**Signs of mild dehydration:**\n- Dark yellow urine (pale straw colour indicates good hydration)\n- Fatigue and reduced concentration\n- Headache\n- Dry mouth or lips\n\n**Practical hydration tips:**\n- Start each morning with a glass of water.\n- Carry a reusable water bottle.\n- Eat water-rich foods: cucumber, tomatoes, watermelon, oranges.\n- Drink a glass of water before each meal.\n- Set hourly reminders if you tend to forget.\n- Increase intake during hot weather and exercise.\n\n*Source guidance: WHO, NHS (nhs.uk/live-well/eat-well/food-guidelines-and-food-labels/water-drinks-nutrition)*",
+    "source": "WHO and NHS hydration guidelines",
+    "reading_time_min": 3
+  },
+  {
+    "id": "physical-activity-guide",
+    "title": "Physical Activity: How Much and What Kind?",
+    "category": "Physical Activity",
+    "tags": ["exercise", "fitness", "activity", "movement"],
+    "summary": "WHO-aligned guidance on how much physical activity adults need and how to build it into daily life.",
+    "content": "Regular physical activity is one of the most powerful things you can do for your health — it reduces the risk of cardiovascular disease, type 2 diabetes, several cancers, and improves mental health.\n\n**WHO recommendations for adults (18–64):**\n- At least **150–300 minutes** of moderate-intensity aerobic activity per week, OR\n- At least **75–150 minutes** of vigorous-intensity aerobic activity, OR an equivalent combination.\n- Muscle-strengthening activities on **2 or more days per week**.\n- Limit long periods of sitting — even light activity during breaks is beneficial.\n\n**Moderate-intensity examples:**\nBrisk walking, cycling on flat ground, dancing, recreational swimming, light gardening.\n\n**Vigorous-intensity examples:**\nRunning, uphill cycling, aerobics classes, competitive sports, heavy lifting.\n\n**Starting out:**\nIf you are currently inactive, start with 10-minute bouts of brisk walking and gradually build up. The health benefits begin immediately — even one session improves mood and blood sugar regulation.\n\n**Tips to stay active:**\n- Walk or cycle to nearby destinations instead of driving.\n- Use the stairs.\n- Schedule activity like any other appointment.\n- Find activities you genuinely enjoy — you are far more likely to stick to them.\n- Exercise with a friend for accountability.\n\n*Reference: WHO Physical Activity Fact Sheet (who.int/news-room/fact-sheets/detail/physical-activity)*",
+    "source": "WHO Physical Activity Guidelines 2020",
+    "reading_time_min": 4
+  },
+  {
+    "id": "sleep-hygiene",
+    "title": "Sleep Hygiene: The Foundation of Good Health",
+    "category": "Sleep",
+    "tags": ["sleep", "rest", "insomnia", "sleep hygiene"],
+    "summary": "Evidence-based strategies for improving sleep quality and understanding why sleep is so important.",
+    "content": "Sleep is when the body repairs tissue, consolidates memories, regulates hormones, and clears metabolic waste from the brain. Chronic poor sleep is linked to obesity, cardiovascular disease, diabetes, weakened immunity, and impaired mental health.\n\n**How much sleep do adults need?**\nMost adults need **7–9 hours** per night. Teenagers need 8–10 hours, school-age children 9–12 hours.\n\n**Sleep hygiene principles:**\n\n**Consistency**\nGo to bed and wake up at the same time every day — even on weekends. This anchors your circadian rhythm.\n\n**Sleep environment**\nKeep your bedroom cool (around 18°C/65°F), dark, and quiet. Use blackout curtains, earplugs, or a white-noise machine if needed.\n\n**Screen-free wind-down**\nBlue light from screens suppresses melatonin. Avoid phones, tablets, and computers for at least 30–60 minutes before bed. Use night mode if unavoidable.\n\n**Limit stimulants**\nAvoid caffeine after noon or early afternoon. Alcohol may feel like it helps you sleep but disrupts sleep quality and reduces REM sleep.\n\n**Pre-sleep routine**\nA brief, calming routine signals to your brain that sleep is coming: a warm bath or shower, light reading, gentle stretching, or meditation.\n\n**When to seek help:**\nPersistent difficulty falling or staying asleep, excessive daytime sleepiness, or loud snoring with pauses in breathing (possible sleep apnoea) warrant evaluation by a healthcare provider.\n\n*Reference: NHS Sleep Guidance, American Academy of Sleep Medicine*",
+    "source": "NHS and AASM sleep guidelines",
+    "reading_time_min": 5
+  },
+  {
+    "id": "mental-wellbeing-foundations",
+    "title": "Five Foundations of Mental Well-Being",
+    "category": "Mental Well-Being",
+    "tags": ["mental health", "wellbeing", "stress", "mindfulness"],
+    "summary": "Practical, evidence-based habits that support everyday mental wellness.",
+    "content": "Mental well-being is not the absence of difficulty — it is the capacity to cope with life's challenges, build meaningful relationships, and function at work or school. The following foundations are supported by psychological research.\n\n**1. Connect with others**\nStrong social relationships are consistently one of the strongest predictors of well-being. Prioritise time with family and friends, join a club or community group, or volunteer.\n\n**2. Be physically active**\nExercise releases endorphins, reduces cortisol (a stress hormone), and improves sleep. Even a 20-minute walk can improve mood for hours.\n\n**3. Learn and engage**\nContinuous learning builds confidence and a sense of purpose. Read, take a course, learn a skill, or pick up a new hobby.\n\n**4. Give**\nActs of kindness — however small — improve mood and foster social connection. Volunteer, help a neighbour, or simply listen to someone who needs to talk.\n\n**5. Practise mindfulness**\nMindfulness means paying deliberate, non-judgmental attention to the present moment. Even 5–10 minutes of mindful breathing daily reduces anxiety and improves emotional regulation over time.\n\n**Recognising when to seek help:**\nIf low mood, anxiety, or other symptoms persist for more than two weeks, affect your ability to function, or are accompanied by thoughts of self-harm, please seek professional support. Speak to your GP, a counsellor, or a mental health helpline.\n\n*Reference: NHS Five Ways to Wellbeing, Mind.org.uk*",
+    "source": "NHS Five Ways to Wellbeing framework",
+    "reading_time_min": 4
+  },
+  {
+    "id": "preventive-health-checkups",
+    "title": "Preventive Health: The Case for Regular Check-Ups",
+    "category": "Preventive Health",
+    "tags": ["check-up", "screening", "prevention", "doctor"],
+    "summary": "Why routine health screenings matter and what checks are typically recommended for adults.",
+    "content": "Preventive healthcare focuses on identifying risk factors and early signs of disease before symptoms appear — when conditions are most treatable.\n\n**Why it matters:**\nMany serious conditions (hypertension, type 2 diabetes, some cancers) have no obvious symptoms in their early stages. Early detection dramatically improves treatment outcomes and quality of life.\n\n**Common adult health screenings:**\n\n| Screening | Typical frequency |\n|---|---|\n| Blood pressure check | At least every 2 years (more often if elevated) |\n| Cholesterol (lipid profile) | Every 4–6 years from age 20 (or more often if at risk) |\n| Blood glucose / HbA1c | As advised by your doctor; from age 45 or earlier if at risk |\n| Dental check | Every 6–12 months |\n| Eye test | Every 2 years |\n| Skin check (mole mapping) | As advised |\n\nCancer screenings (cervical, breast, bowel, prostate) vary by age, sex, and national guidelines — ask your GP what is recommended for you.\n\n**Vaccinations:**\nKeep adult vaccinations up to date: flu (annual), COVID-19 (as recommended), tetanus/diphtheria boosters, shingles and pneumonia vaccines for older adults. Check your national immunisation schedule.\n\n**Mental health check:**\nDon't neglect your mental health — raise any concerns with your GP. Effective treatments exist for depression, anxiety, and many other conditions.\n\n*Always follow the specific guidance of your healthcare provider and national health authority.*",
+    "source": "WHO, NHS, and CDC preventive care guidelines",
+    "reading_time_min": 4
+  },
+  {
+    "id": "hygiene-infection-prevention",
+    "title": "Personal Hygiene and Infection Prevention",
+    "category": "Hygiene",
+    "tags": ["hygiene", "handwashing", "infection", "prevention"],
+    "summary": "Simple hygiene practices that significantly reduce the spread of infectious diseases.",
+    "content": "Good personal hygiene is one of the most effective — and low-cost — public health interventions available. It directly supports SDG 3 by reducing the burden of preventable infectious disease.\n\n**Handwashing: the single most important hygiene habit**\nThe WHO 'Five Moments for Hand Hygiene' include:\n- Before eating or preparing food\n- After using the toilet\n- After coughing, sneezing, or blowing your nose\n- After contact with soil, animals, or waste\n- Before and after caring for a sick person\n\n**How to wash hands correctly:**\n1. Wet hands with clean running water.\n2. Apply soap and lather for at least 20 seconds (sing 'Happy Birthday' twice).\n3. Scrub all surfaces: palms, backs, between fingers, under nails.\n4. Rinse thoroughly and dry with a clean towel.\n\nAlcohol-based hand sanitiser (≥60% alcohol) is effective when soap and water are not available, but is not a substitute for proper handwashing when hands are visibly dirty.\n\n**Other key hygiene practices:**\n- Respiratory hygiene: cover coughs and sneezes with a tissue or inner elbow, not your hands.\n- Food hygiene: store, prepare, and cook food safely.\n- Oral hygiene: brush teeth twice daily and floss.\n- Clean and disinfect frequently touched surfaces.\n\n*Reference: WHO Hand Hygiene guidelines (who.int/gpsc/5may/Hand_Hygiene_Why_How_and_When_Brochure.pdf)*",
+    "source": "WHO Hand Hygiene Guidelines",
+    "reading_time_min": 3
+  },
+  {
+    "id": "digital-wellbeing",
+    "title": "Digital Well-Being and Healthy Screen Habits",
+    "category": "Digital Well-Being",
+    "tags": ["screen time", "digital", "phone", "social media", "tech"],
+    "summary": "How to maintain a healthy relationship with technology in an always-connected world.",
+    "content": "Digital technology brings enormous benefits — but excessive or poorly managed screen time is linked to disrupted sleep, reduced physical activity, eye strain, and lower mood.\n\n**Evidence on screen time and health:**\n- Blue light from screens suppresses melatonin production, delaying sleep onset.\n- Passive social media use (scrolling) is linked to lower life satisfaction and social comparison.\n- Excessive smartphone use can reduce attention span and increase anxiety.\n- Sedentary screen time displaces physical activity.\n\n**Practical strategies:**\n\n**The 20-20-20 rule for eye health**\nEvery 20 minutes of screen use, look at something 20 feet (6 m) away for 20 seconds.\n\n**Phone-free zones**\nDesignate the bedroom and meal times as phone-free. This improves sleep and social connection.\n\n**App usage limits**\nMost smartphones have built-in tools to set daily limits on specific apps. Use them intentionally.\n\n**Deliberate use vs. passive scrolling**\nBefore picking up your phone, ask: 'What am I trying to do?' Intentional use is associated with better outcomes than mindless scrolling.\n\n**Digital sunset**\nActivate night mode or blue-light filters from early evening. Charge devices outside the bedroom.\n\n**Social media hygiene**\nUnfollow accounts that trigger negative comparisons. Curate feeds toward content that educates or uplifts.\n\n**Work-life boundaries**\nSet clear 'end of work' notification boundaries. Respond to non-urgent messages in batches rather than continuously.\n\n*Guidance informed by WHO Digital Health Strategy and academic literature on screen time and well-being.*",
+    "source": "WHO Digital Health Strategy",
+    "reading_time_min": 4
+  },
+  {
+    "id": "stress-management",
+    "title": "Understanding and Managing Stress",
+    "category": "Mental Well-Being",
+    "tags": ["stress", "anxiety", "coping", "relaxation", "wellbeing"],
+    "summary": "What causes stress, how it affects your body, and evidence-based strategies to manage it effectively.",
+    "content": "Some stress is a normal part of life — it motivates action and helps us respond to challenges. Chronic unmanaged stress, however, is harmful to both physical and mental health.\n\n**The physiology of stress:**\nWhen you perceive a threat, the hypothalamic-pituitary-adrenal (HPA) axis releases cortisol and adrenaline — the 'fight or flight' response. This is adaptive for short-term challenges. Chronic activation disrupts sleep, digestion, immune function, and cardiovascular health.\n\n**Common stress symptoms:**\n- Physical: headaches, muscle tension, fatigue, digestive problems\n- Emotional: irritability, anxiety, difficulty concentrating\n- Behavioural: disrupted sleep, changes in appetite, social withdrawal\n\n**Evidence-based stress management strategies:**\n\n**1. Regular physical activity**\nExercise is one of the most effective stress reducers — it metabolises stress hormones and releases mood-lifting endorphins.\n\n**2. Mindfulness and meditation**\nEven brief daily mindfulness practice reduces perceived stress. Apps, guided recordings, and community classes are accessible entry points.\n\n**3. Social support**\nTalking to someone you trust reduces the physiological stress response. Isolation amplifies stress.\n\n**4. Healthy boundaries**\nLearn to say no to non-essential demands. Overcommitment is a major driver of chronic stress.\n\n**5. Time management**\nBreak large tasks into smaller steps. Prioritise ruthlessly — not everything on your list is equally important.\n\n**6. Nature exposure**\nSpending time outdoors, even in urban green spaces, measurably reduces cortisol levels.\n\n**When to seek professional help:**\nIf stress is significantly affecting your work, relationships, or health — or if coping involves alcohol or other substances — please speak with a GP or mental health professional.\n\n*Reference: Mind.org.uk Stress Guidance, American Psychological Association*",
+    "source": "Mind.org.uk and APA stress management guidelines",
+    "reading_time_min": 5
+  },
+  {
+    "id": "healthy-routine",
+    "title": "Building a Sustainable Healthy Daily Routine",
+    "category": "Lifestyle",
+    "tags": ["routine", "habits", "lifestyle", "daily", "healthy"],
+    "summary": "How to design a daily routine that supports long-term physical and mental wellness.",
+    "content": "Sustainable health comes from consistent small habits, not dramatic short-term efforts. A thoughtful daily routine reduces decision fatigue and makes healthy choices the default.\n\n**Morning anchors (first 30–60 minutes):**\n- Open curtains — natural light resets your circadian rhythm.\n- Drink a large glass of water immediately after waking.\n- Move your body: even 5–10 minutes of stretching or a short walk starts the day energetically.\n- Eat a nutritious breakfast that includes protein to stabilise blood sugar.\n- Set one or two clear intentions for the day.\n\n**During the day:**\n- Take a 5-minute movement break every 60–90 minutes of sitting.\n- Stay hydrated — keep a water bottle visible at your desk.\n- Eat regular meals; skipping meals leads to energy dips and poor food choices later.\n- Spend at least 20 minutes outdoors for light, fresh air, and a mental reset.\n\n**Evening wind-down (final 60 minutes before bed):**\n- Dim lights and reduce screen brightness.\n- Avoid heavy meals within 2–3 hours of bedtime.\n- Do something calming: reading, gentle stretching, journaling, or conversation.\n- Set a consistent sleep time — consistency is the single most important sleep hygiene factor.\n\n**Weekly anchors:**\n- Aim for 150+ minutes of moderate aerobic activity spread across the week.\n- Plan meals loosely to reduce reliance on ultra-processed convenience food.\n- Schedule social activities — connection is essential, not optional.\n- Reflect briefly on the week: what went well? What would you do differently?\n\n**Building new habits:**\nUse habit-stacking (attach a new behaviour to an existing one), start with a very small version of the habit, and celebrate small wins. Consistency over weeks builds automaticity.\n\n*General lifestyle guidance. Individual needs vary — a healthcare provider or certified health coach can offer personalised advice.*",
+    "source": "Behavioural science literature; NHS Live Well guidance",
+    "reading_time_min": 5
+  }
+]
