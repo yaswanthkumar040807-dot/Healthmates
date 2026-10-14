@@ -9,6 +9,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent.resolve()))
 
 import streamlit as st
+from streamlit.components.v1 import html
 
 import database as db
 from config import APP_NAME, APP_VERSION
@@ -20,6 +21,19 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded",
 )
+
+# ── Vercel Web Analytics ──────────────────────────────────────────────────────
+# Inject Vercel Analytics script for page tracking
+# Note: Analytics data will appear in the Vercel dashboard after deployment
+vercel_analytics_script = """
+<script>
+  window.va = window.va || function () { 
+    (window.vaq = window.vaq || []).push(arguments); 
+  };
+</script>
+<script defer src="/_vercel/insights/script.js"></script>
+"""
+html(vercel_analytics_script, height=0)
 
 # ── Global CSS ────────────────────────────────────────────────────────────────
 st.markdown("""
